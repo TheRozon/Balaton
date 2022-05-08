@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Balatoni Látnivalók</string>
+    <string name="email_address">Email-cím</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="password_confirm">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="anonym">Folytatás belépés nélkül</string>
+    <string name="more_detail">Részletek</string>
+    <string name="short_detail">short detail information</string>
+    <string name="place_name">A helszin neve</string>
+    <string name="sign_out">Kijelentkezés</string>
+
+    <string-array name="place_names">
+        <item>Béke sztupa</item>
+        <item>Cseszneki vár</item>
+        <item>Festetics kastély</item>
+        <item>Hegyestű</item>
+        <item>Herendi porcelánmanufaktúra</item>
+        <item>Lengyel kápolna</item>
+        <item>Ösküi kerektemplom</item>
+        <item>Szépkilátó</item>
+        <item>Szigligeti vár</item>
+        <item>Boldogasszony templomrom</item>
+    </string-array>
+
+    <string-array name="place_details">
+        <item> A szentély ötletét 1990-ben Bop Jon buddhista szerzetes vetette fel, célja egy békét és boldogságot megtestesítő építmény volt a rendszerváltó országban.</item>
+        <item>A tatárjárást követő várépítési láz produktuma.</item>
+        <item>A Keszthely szívében fekvő barokk kastélyt Festetics Kristóf kezdte építtetni 1745-ben.</item>
+        <item>Monoszló és Zánka között magasodik a Káli-medence őrének is nevezett Hegyestű.</item>
+        <item>Valódi hungarikum, melynek termékei után egykoron királyok kapkodtak.</item>
+        <item>Az építtető Lengyel család nevét viselő kápolna 1760-ban épült fel barokk stílusban.</item>
+        <item>Eredete nem ismert, talán török mecset lehetett, de az is lehet, hogy egy vártorony maradványa.</item>
+        <item>A balatongyöröki Szépkilátó aa 71-es főút mellett található.</item>
+        <item>Építése az 1260-as években vette kezdetét a pannonhalmi bencések irányítása alatt.</item>
+        <item>Az egyhajós épület háromemeletes, ikerablakos tornya ma is impozáns látványt nyújt.</item>
+    </string-array>
+
+    <array name="place_rates">
+        <item>3.5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>1.5</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4.5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>2.5</item>
+    </array>
+
+    <array name="place_images">
+        <item>@drawable/latnivalo_beke_sztupa</item>
+        <item>@drawable/latnivalo_cseszneki_var</item>
+        <item>@drawable/latnivalo_festetics_kastely</item>
+        <item>@drawable/latnivalo_hegyestu</item>
+        <item>@drawable/latnivalo_herendi_porcelan</item>
+        <item>@drawable/latnivalo_lengyel_kapolna</item>
+        <item>@drawable/latnivalo_oskui_kerektemplom</item>
+        <item>@drawable/latnivalo_szepkilato</item>
+        <item>@drawable/latnivalo_szigligeti_var</item>
+        <item>@drawable/latnivavalo_boldogasszony_templomrom</item>
+    </array>
+</resources>

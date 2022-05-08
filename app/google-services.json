@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1020341801806",
+    "project_id": "androidbalaton",
+    "storage_bucket": "androidbalaton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020341801806:android:347e6e52912e410100041f",
+        "android_client_info": {
+          "package_name": "com.example.balaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020341801806-ghb3g4iqdkrqek64f6tlmimhp6qumbtn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.balaton",
+            "certificate_hash": "385bc8e490c148201ed625cefe24906fceda632b"
+          }
+        },
+        {
+          "client_id": "1020341801806-ukphge6g44qsdk4pg0f9pqlqukp92cvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBESzUjLxJJuUM5R55bziniyXWhGdCnTlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020341801806-ukphge6g44qsdk4pg0f9pqlqukp92cvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
